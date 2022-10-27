@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyHauge
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning Django frameworks.
+- 🌱 I’m currently learning Django frameworks (check out https://curubethion.com for a Django-built site!).
 - 💞️ I’m looking to collaborate on entry-level tasks.
 - 📫 How to reach me: my LinkedIn profile (https://www.linkedin.com/in/andrew-hauge/)
 
